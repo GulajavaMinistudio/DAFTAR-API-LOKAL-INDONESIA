@@ -23,7 +23,7 @@ Berisi API tentang Data Indonesia.
   * [Pemerintahan](#pemerintahan)
   * [Prediksi](#prediksi)
   * [Sertifikasi](#sertifikasi)
-  * [Kontak](#kontak)
+* [Kontak](#kontak)
 * [Lisensi](#lisensi)
 
 ## Daftar API
@@ -43,6 +43,7 @@ Berisi API tentang Data Indonesia.
 | Bisatopup | Bisatopup | [Link](http://docs.bisatopup.apiary.io/) | `Aktif` | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain. | `apiKey` |
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Aktif` | API untuk *software* laporan keuangan. | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
+| iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 
 ### Forum
 
@@ -83,12 +84,14 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Kode Pos | iBachor | [Link](https://github.com/bachors/apiapi#kode-pos-api) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
+| Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-daerah-indonesia/) | `Aktif` | Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa | Tidak |
 
 ### Musik
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Lirik Lagu | iBachor | [Link](https://github.com/bachors/apiapi#lirik-lagu) | `Aktif` | Pencarian lirik lagu | Tidak |
+| Spotify | Spotify Dev | [Link](https://developer.spotify.com/web-api/) | `Aktif` | Spotify Catalog | `OAuth` |
 
 ### Pemerintahan
 
@@ -97,6 +100,7 @@ Berisi API tentang Data Indonesia.
 | Data Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/) | `Aktif` | Data mengenai Indonesia | `apiKey` |
 | Data Jakarta | Jakarta Smart City (2016) | [Link](http://api.jakarta.go.id/) | `Aktif` | Data mengenai pemerintah Provinsi DKI Jakarta | `apiKey` |
 | Kemendag | iBachor | [Link](https://github.com/bachors/apiapi#kemendag) | `Aktif` | API yang memiliki data seperti harga kebutuhan pokok nasional | Tidak |
+| Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Aktif` | Menyediakan informasi mengenai nama instansi, nomor instansi, alamat dan lain-lain yang disortir dengan nama kabupaten | Tidak |
 
 ### Prediksi
 
