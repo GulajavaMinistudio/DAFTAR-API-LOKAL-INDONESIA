@@ -49,7 +49,6 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Bukalapak | Bukalapak Dev | [Link](https://bukalapak.github.io/api/) | `Active` | Bukalapak API, sell much stuff | `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Active` | Matahari Mall API for Seller | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Active` | Selling train ticket, etc. | `apiKey` |
 
@@ -87,7 +86,6 @@ This file is translation from Original (Bahasa Indonesia).
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Data Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/) | `Active` | Indonesia Data | `apiKey` |
 | Data Jakarta | Jakarta Smart City (2016) | [Link](http://api.jakarta.go.id/) | `Active` | DKI Jakarta Data | `apiKey` |
-| Kemendag | iBachor | [Link](https://github.com/bachors/apiapi#kemendag) | `Active` | Daily Needs Cost, etc. | No |
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Active` | Instance like police, hospital, etc. bring location, name, and another information. | No |
 
 ### Location

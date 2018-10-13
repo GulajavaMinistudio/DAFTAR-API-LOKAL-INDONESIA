@@ -32,7 +32,6 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Bukalapak | Bukalapak Dev | [Link](https://bukalapak.github.io/api/) | `Aktif` | API dari *e-commerce* terkenal di Indonesia sebagai situs jual-beli daring (*online*) | `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Aktif` | API untuk penjual di Matahari Mall | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Aktif` | API untuk transaksi pada tiket.com yang merupakan situs penjualan tiket kereta api, tiket pesawat, dan lain-lain. | `apiKey` |
 
@@ -100,8 +99,8 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Data Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/) | `Aktif` | Data mengenai Indonesia | `apiKey` |
 | Data Jakarta | Jakarta Smart City (2016) | [Link](http://api.jakarta.go.id/) | `Aktif` | Data mengenai pemerintah Provinsi DKI Jakarta | `apiKey` |
-| Kemendag | iBachor | [Link](https://github.com/bachors/apiapi#kemendag) | `Aktif` | API yang memiliki data seperti harga kebutuhan pokok nasional | Tidak |
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Aktif` | Menyediakan informasi mengenai nama instansi, nomor instansi, alamat dan lain-lain yang disortir dengan nama kabupaten | Tidak |
+| Data Pajak Motor | dppad.jatengprov | [Link](https://github.com/elybin/parking_ocr) | `Aktif` | Data pajak kendaraan bermotor| `apiKey` |
 
 ### Prediksi
 
