@@ -83,8 +83,10 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Kode Pos | iBachor | [Link](https://github.com/bachors/apiapi#kode-pos-api) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
-| Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
+| Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Tidak Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
+| Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-daerah-indonesia/) | `Aktif` | Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa | Tidak |
+| Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Aktif` | Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah | Tidak |
 
 ### Musik
 
@@ -101,6 +103,7 @@ Berisi API tentang Data Indonesia.
 | Data Jakarta | Jakarta Smart City (2016) | [Link](http://api.jakarta.go.id/) | `Aktif` | Data mengenai pemerintah Provinsi DKI Jakarta | `apiKey` |
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Aktif` | Menyediakan informasi mengenai nama instansi, nomor instansi, alamat dan lain-lain yang disortir dengan nama kabupaten | Tidak |
 | Data Pajak Motor | dppad.jatengprov | [Link](https://github.com/elybin/parking_ocr) | `Aktif` | Data pajak kendaraan bermotor| `apiKey` |
+| Data BPS | Badan Pusat Statistik | [Link](https://webapi.bps.go.id/developer/) | `Aktif` | Data statistik indikator pembangunan seluruh Indonesia | `apiKey` |
 
 ### Prediksi
 
